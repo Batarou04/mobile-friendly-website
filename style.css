@@ -1,4 +1,4 @@
-/* 🌐 Base styles for desktop */
+/* Base styles for desktop */
 body {
   margin: 0;
   padding: 0;
@@ -33,7 +33,7 @@ body {
   cursor: pointer;
 }
 
-/* 📱 Responsive styles for mobile */
+/* Responsive styles for mobile */
 @media screen and (max-width: 768px) {
   .content {
     flex-direction: column;
